@@ -33,7 +33,6 @@ export default class Modal extends Component {
       devSettings,
       isOpen,
       children,
-      logo,
       t,
       isLocal,
       clearSiteURL,

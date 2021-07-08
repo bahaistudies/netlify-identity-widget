@@ -1,10 +1,10 @@
 {
-  "name": "netlify-identity-widget",
-  "description": "Netlify Identity widget for easy integration",
-  "version": "1.9.1",
-  "author": "Matt Biilmann <matt@netlify.com>",
+  "name": "@bahaistudies/netlify-identity-widget",
+  "description": "Whitelabelled Netlify Identity widget for easy integration",
+  "version": "1.9.2",
+  "author": "Ben Altair <support@bahaistudies.ca>",
   "bugs": {
-    "url": "https://github.com/netlify/netlify-identity-widget/issues"
+    "url": "https://github.com/bahaistudies/conference/issues"
   },
   "dependencies": {},
   "devDependencies": {
